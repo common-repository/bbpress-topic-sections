@@ -1,0 +1,30 @@
+.bbp-ts-topic-section{
+    margin-left:25px;
+}
+
+
+.bpp_ts_section_title{
+    font-weight:bold;
+}
+h4.bpp_ts_section_title{
+    font-weight:bold;
+    display:inline-block;
+}
+
+form .bbp-ts-topic-section{
+    margin-top:40px;
+}
+
+
+form .bbp-ts-topic-section textarea {
+width: 97%;
+box-sizing: border-box;
+}
+
+form .bpp_ts_section_title{
+    font-weight:inherit;
+}
+form .bpp_ts_section_description {
+    color:#6a6a6a;
+    font-style:italic;
+}
